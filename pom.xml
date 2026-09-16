@@ -7,12 +7,12 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.Hsumah.azure</groupId>
+    <groupId>com.hsumah.azure</groupId>
     <artifactId>Hsumah-2025AzureRepo</artifactId>
     <version>1.0.0</version>
     <packaging>war</packaging>
 
-    <name>Hsumah-2025AzureRepo</name>
+    <name>Hsumah 2025AzureRepo WebApp</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
